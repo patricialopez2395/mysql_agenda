@@ -28,7 +28,7 @@
             android:gravity="center_horizontal"
             android:textSize="20dp"
             android:textStyle="bold"
-            android:text="CREAR CONTACTO"
+            android:text="DATOS DEL CONTACTO"
             android:textColor="#000000"/>
 
         <ScrollView
